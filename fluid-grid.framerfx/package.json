@@ -1,0 +1,21 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.8.1-beta.1"
+	},
+	"peerDependencies": {
+		"framer": "^0.8.1-beta.1",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "4ec195db-2ae0-4c54-8ff5-339e352df892"
+	},
+	"author": "Linton Ye",
+	"dependencies": {
+		"@framer/unsplash.unsplash": "^1.0.0",
+		"styled-components": "^4.0.2"
+	}
+}
